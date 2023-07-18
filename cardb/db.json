@@ -1,0 +1,52 @@
+{
+  "cars": [
+    {
+      "id": 1,
+      "name": "BMW",
+      "price": 1000000,
+      "image": "/images/1.webp"
+    },
+    {
+      "id": 2,
+      "name": "Devatka",
+      "price": 100000000,
+      "image": "/images/1.webp"
+    },
+    {
+      "name": "asdsda",
+      "price": "1231312",
+      "image": "qwqw",
+      "id": 1689635030003
+    },
+    {
+      "name": "qweweq",
+      "price": "12313",
+      "image": "12312312ad",
+      "id": 1689635038361
+    },
+    {
+      "name": "sss",
+      "price": "sss",
+      "image": "2342",
+      "id": 1689635038362
+    },
+    {
+      "name": "sdada",
+      "price": "asdasd",
+      "image": "adada",
+      "id": 1689635038363
+    },
+    {
+      "name": "zxc",
+      "price": "sads",
+      "image": "asdasadawd",
+      "id": 1689635038364
+    },
+    {
+      "name": "sss",
+      "price": "sss",
+      "image": "ss",
+      "id": 1689635038365
+    }
+  ]
+}
